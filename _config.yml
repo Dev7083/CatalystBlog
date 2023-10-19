@@ -6,7 +6,7 @@ github_repo: kernelHOOkers
 github_username: Dev7083
 theme_color: black
 remote_theme: internet-de-france/swiss
-baseurl: /kernelhackers_blog
+baseurl: /CatalystBlog
 defaults:
   - scope:
       path: ''
